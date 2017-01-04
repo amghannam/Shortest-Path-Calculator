@@ -103,15 +103,15 @@ The tool will only recognize two-layer graphs.
 
 ## Sample Images 
 
-### 1. Main menu
+#### 1. Main menu
 
 ![alt tag] (http://i.imgur.com/s06DqfR.png) 
 
-### 2. Running the algorithm on a single-layer topology 
+#### 2. Running the algorithm on a single-layer topology 
 
 ![alt tag] (http://i.imgur.com/t2PFwW6.png)
 
-### 3. Costum graph generator (included within the tool) 
+#### 3. Costum graph generator (included within the tool) 
 
 ![alt tag] (http://i.imgur.com/3iUzSHQ.png)
 
