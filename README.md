@@ -1,4 +1,4 @@
-# Shortest-Path-Calculator
+# Shortest Path Calculator
 This program is a  tool that tests the performance of Dijkstra's algorithm using two different priority queue data structures, the binary heap and the Fibonacci heap. The tool was developed as part of my senior thesis at King Abdulaziz University in 2013. 
 
 **Note on ownership:** The Fibonacci heap and associated classes were originally implemented by [Keith Schwarz] (http://www.keithschwarz.com/). This project makes use of these implementations, with some modifications as appropriate. 
