@@ -10,7 +10,7 @@ This program is a  tool that tests the performance of Dijkstra's algorithm using
 To run the tool, execute the following command in the directory where the ```.jar``` file resides: 
 
 ```
-   $ > java -jar Run.jar 
+> java -jar Run.jar 
 ```
 
 This should launch the program. Follow the on-screen instructons to continue. 
