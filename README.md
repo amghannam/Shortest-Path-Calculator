@@ -3,7 +3,7 @@ This program is a  tool that tests the performance of Dijkstra's algorithm using
 
 **Note on ownership:** The Fibonacci heap and associated classes were originally implemented by [Keith Schwarz] (http://www.keithschwarz.com/). This project makes use of these implementations, with some modifications as appropriate. 
 
-### How to Run
+## How to Run
 
 To run the tool, execute the following command in the directory where the .jar file resides: 
 
