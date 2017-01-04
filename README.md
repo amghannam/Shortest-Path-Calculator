@@ -104,7 +104,7 @@ The tool will only recognize two-layer graphs.
 ## Sample Images 
 
 <p align="center">
-  <br
+  <br>
   <b>1. Main menu</b><br><br>
   <img src="http://i.imgur.com/s06DqfR.png">
   <br>
