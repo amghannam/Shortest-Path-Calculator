@@ -5,7 +5,7 @@ This program is a  tool that tests the performance of Dijkstra's algorithm using
 
 ## How to Run
 
-To run the tool, execute the following command in the directory where the .jar file resides: 
+To run the tool, execute the following command in the directory where the ```.jar``` file resides: 
 
 ```
    $ > java -jar Run.jar 
@@ -15,7 +15,8 @@ This should launch the program. Follow the on-screen instructons to continue.
 
 ## Input File Format 
 
-A valid single-layer graph must be of this format:
+To ensure the program functions properly, your input graph must be defined in ```.txt``` file according 
+to a specific format. An example of a valid single-layer graph is the following: 
 
 ```
 v0 A
@@ -40,7 +41,7 @@ v5 v5 00.00
 ```
 
 Where the lines above the  ```#``` denote nodes and their names, and the lines below denote the node connections
-and their associated costs. (For example, ```v0 v1 25.00``` means there is a link of cost 25 that goes from node ```v0```
+and their associated costs. (For example, ```v0 v1 25.00``` means there is a link of length 25 that goes from node ```v0```
 to node ```v1```.)
 
 Similarly, a valid multiplayer graph looks like this:
