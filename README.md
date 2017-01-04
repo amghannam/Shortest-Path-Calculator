@@ -105,13 +105,13 @@ The tool will only recognize two-layer graphs.
 
 <p align="center">
   <br><br>
-  <b>1. Main menu</b><br><br>
+  <br><b>1. Main menu</b><br><br>
   <img src="http://i.imgur.com/s06DqfR.png">
   <br>
-  <b>2. Running the algorithm on a single-layer topology </b><br><br>
+  <br><b>2. Running the algorithm on a single-layer topology </b><br><br>
   <img src="http://i.imgur.com/t2PFwW6.png">
   <br>
-  <b>3. Costum graph generator (included within the tool)  </b><br><br>
+  <br><b>3. Costum graph generator (included within the tool)  </b><br><br>
   <img src="http://i.imgur.com/3iUzSHQ.png">
 </p>
 
