@@ -3,6 +3,8 @@ This program is a  tool that tests the performance of Dijkstra's algorithm using
 
 **Note on ownership:** The Fibonacci heap and associated classes were originally implemented by [Keith Schwarz] (http://www.keithschwarz.com/). This project makes use of these implementations, with some modifications as appropriate. 
 
+**Note on code:** I wrote this program as a college kid in 2013, before I knew there was such a thing as clean code. Please don't mind the fact that the code is a complete mess. Regardless, it works. Promise! 
+
 ## How to Run
 
 To run the tool, execute the following command in the directory where the ```.jar``` file resides: 
@@ -95,7 +97,7 @@ l4 u4 00.00
 u5 l5 00.00
 l5 u5 00.00
 ```
-Where vertices that start an L denote a lower-layer node and those that start with a U denote an upper-layer node. 
+Where vertices that start with an L denote a lower-layer node and those that start with a U denote an upper-layer node. 
 The tool will only recognize two-layer graphs. 
 
 
