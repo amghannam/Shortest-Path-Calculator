@@ -98,7 +98,7 @@ Where vertices that start an L denote a lower-layer node and those that start wi
 The tool will only recognize two-layer graphs. 
 
 
-## Images 
+## Sample Images 
 
 ### 1. Main menu
 
@@ -112,6 +112,8 @@ The tool will only recognize two-layer graphs.
 
 ![alt tag] (http://i.imgur.com/3iUzSHQ.png)
 
+## Help
 
+This program is provided "as-is" and may be used at your own risk, without any sort of warranty. For any questions or inquiries, please contact me at amalghannam@crimson.ua.edu. 
 
 
